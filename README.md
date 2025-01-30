@@ -10,7 +10,11 @@ https://huggingface.co/spaces/raghavavidyapriya/ids-prediction
 
 ### PROTOTYPE VIDEO
 
-![demo](./outputs/videos/ids.mov)
+
+
+https://github.com/user-attachments/assets/b53613c2-1bec-4cb4-8eec-d0cbc46efde6
+
+
 
 <br><br>
 
